@@ -1,5 +1,6 @@
 extends Node2D
 
+class_name Spawner2D
 
 onready var pos = $Position2D
 
